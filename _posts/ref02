@@ -1,0 +1,24 @@
+
+
+
+[lua script](https://support.exosite.com/hc/en-us/articles/200513440-Lua-Scripting-)
+<br>
+[manage script table](https://support.exosite.com/hc/en-us/articles/200245069)
+<br>
+[`arduino`](http://forum.arduino.cc/index.php?topic=271931.0)<br>
+[`arduino gps`](http://www.instructables.com/id/Cellular-GPS-tracker-with-Cloud-Maps/)<br>
+[`/sys/class/thermal`](http://stackoverflow.com/questions/2440511/getting-cpu-temperature-using-python)
+[`multi data`](https://support.exosite.com/hc/en-us/articles/200462595-Sending-Data
+)<br>
+==================================<hr>
+###project
+[`pyonep`](http://embeddedday.com/projects/raspberry-pi/projects-2/using-the-exosite/)<br>
+[exoline manage](https://support.exosite.com/hc/en-us/articles/200245069fl)<br>
+====================================<hr>
+###Lua platform script
+[platform script](https://github.com/exosite-garage/PlatformScripts)<br>
+[Lua script api](https://github.com/exosite/docs/tree/master/scripting)<br>
+[Lua script overview](https://support.exosite.com/hc/en-us/articles/200513440-Lua-Scripting-)<br>
+=================================<hr>
+###exoline
+[exoline](https://github.com/exosite/exoline)
