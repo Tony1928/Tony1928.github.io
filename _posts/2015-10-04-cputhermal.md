@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "cloud framework python api part ii"
-date: 2015-10-04
+title: "cpu thermal"
+date: 2015-10-03
 ---
 
 <div>
