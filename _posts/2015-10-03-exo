@@ -5,10 +5,3 @@ date: 2015-10-03
 ---
 #exo
 
-[widgets_off_the_shelf](https://support.exosite.com/hc/en-us/articles/200524020-Off-the-Shelf-Widgets)<hr>
-[dashboard introduction](https://support.exosite.com/hc/en-us/articles/200382634-Dashboards)<hr>
-[rpc](https://github.com/exosite/docs/tree/master/rpc)<br>
-<pre>
-curl -d '{"auth":{"cik":"da689bfefd36561b82ebc73960a55c55046f4b0e"},"calls":[{"procedure":"read","arguments":[{"alias": "windspeed"}, {}],"id":0}]}'\
- -H 'Content-type: application/json; charset=utf-8' http://m2.exosite.com/onep:v1/rpc/process
-</pre> 
